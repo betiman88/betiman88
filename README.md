@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
 <h1 align="center">¡Hola 👋! Soy Dani</h1>
 
 <h3 align="center">Viva el Betis 💚. Salud y rock n roll 🤘</h3>
-
 ---
 
 <p align="center">
