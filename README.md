@@ -22,6 +22,7 @@
 - 🐧 Explorando **Linux y Bash**
 - 🎮 Me interesa el **desarrollo de videojuegos**
 - 🎸 Bajista punk en mis ratos libres
+- 🎹 Producción (muy) amateur en ableton live
 
 ---
 
